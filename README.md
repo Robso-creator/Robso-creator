@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Robso-creator
+- 👀 I’m interested in IA, gamification
+- 🌱 I’m currently learning Python using games
+- 📫 How to reach me: contato.robsonallef@gmail.com
